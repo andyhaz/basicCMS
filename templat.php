@@ -1,0 +1,1 @@
+<html><head><title>Basic CSS</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><?php echo($css); ?></head><body>	<p class="menu"><?php echo($menu); ?><br><?php echo($sub_menu); ?></p>	<p class="body"><?php echo($body); ?>	<p class="copyright">Copyright 2006 Maigboxlabs</p></body></html>
